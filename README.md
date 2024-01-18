@@ -1,7 +1,7 @@
 # TRAIN YOUR LITHUANIAN VOCABULARY
 #### Video Demo: https://youtu.be/mss_APF75G4
 #### Description:
-Final project for CS50's Programming with Python.
+Final project for CS50's Introduction to Programming with Python.
 
 Program TRAIN YOUR LITHUANIAN VOCABULARY is a game for training Lithuanian nouns (level A1-A2).
 
